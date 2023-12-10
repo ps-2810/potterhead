@@ -19,3 +19,19 @@ Make sure you have Node.js and npm installed on your machine.
 mkdir simple-task-api
 cd simple-task-api
 ```
+2. Initialize a new Node.js project.
+```
+npm init -y
+```
+3. Install the necessary dependencies (Express).
+```
+npm install express
+```
+4. Running the project
+  a. Save the changes to index.js.
+  b. Run the server
+```
+node index.js
+```
+
+
